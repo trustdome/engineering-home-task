@@ -1,0 +1,5 @@
+_extends: .github
+repository:
+  name: engineering-home-task
+  description: Home task for engineering candidates
+  topics: trustdome, task, recruitment
